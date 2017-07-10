@@ -18,8 +18,11 @@
     "moment": "^2.15.0",
     "quasar-framework": "^0.13.4",
     "roboto-fontface": "^0.7.0",
+    "tree-model": "^1.0.6",
     "vue": "^2.3.0",
-    "vue-router": "^2.0.0"
+    "vue-router": "^2.0.0",
+    "vuedraggable": "^2.14.1",
+    "vuex": "^2.3.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
